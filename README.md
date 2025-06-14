@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Enguunbayar</h1>
 <h3 align="center">🚀 A passionate self-learner and problem solver from Mongolia</h3>
 
-- 🔍 Currently sharpening my **problem-solving skills** through CSES and Codeforces  
-- 🌱 Learning **Requirement Analysis**, **Java**, and leveling up my **CS fundamentals**  
+- 🔍 Currently sharpening my **problem-solving skills** through AtCoder , CSES and Codeforces   
+- 🌱 Learning **Web Development** and leveling up my **CS fundamentals**  
 - 🤝 Open to collaboration on **any meaningful project**  
-- 💬 Always up for a chat about **competitive programming**, **low-level systems**, or **AI tools**  
+- 💬 Always up for a chat about **competitive programming**, **low-level programming**
 - 📬 Reach me: **enguunbayyr@gmail.com**  
-- ✍️ I share thoughts and articles here: [Tee Education](https://tee.education/author/enguunbayar/page/3/)
+- ✍️ I share thoughts and articles here: [Tee Education](https://tee.education/author/enguunbayar/page/1/)
 
 ---
 
