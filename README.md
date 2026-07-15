@@ -12,23 +12,15 @@ type SoftwareEngineer struct {
     Role       string
     Studying   string
     Language   string
-    Focus      []string
-    Learning   []string
+  
 }
 
 func main() {
     me := SoftwareEngineer{
         Name:     "Enguunbayar",
         Role:     "Software Engineer",
-        Studying: "CS @ National University of Mongolia",
-        Language: "Go",
-        Focus: []string{
-            "Object Storage",
-            "API Gateways",
-        },
-        Learning: []string{
-            "Kafka", "System Design", "Kubernetes",
-        },
+        Studying: "SE @ National University of Mongolia",
+        Language: "Go , ... ",
     }
     me.BuildSomethingCool()
 }
