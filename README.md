@@ -13,6 +13,15 @@ type SoftwareEngineer struct {
   
 }
 
+func (s *SoftwareEngineer) BuildSomethingCool() {
+	for {
+		s.Learn()
+		s.Build()
+		s.Ship()
+		// Stay curious. Keep creating.
+	}
+}
+
 func main() {
     me := SoftwareEngineer{
         Name:     "Enguunbayar",
